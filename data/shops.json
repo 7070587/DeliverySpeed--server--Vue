@@ -1,0 +1,1800 @@
+[
+  {
+    "name": "嘉禾一品（溫都水城）",
+    "address": "北京市昌平區宏福苑溫都水城F1",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a5859a19c2bc57d52df30b3"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a5859a19c2bc57d52df30b2"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a5859a19c2bc57d52df30b1"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "歡迎光臨，用餐高峰請提前下單，謝謝",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "164ad0b6a3917599.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 25,
+    "float_delivery_fee": 8,
+    "distance": "2120.1公裡",
+    "order_lead_time": "31小時24分鐘",
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "閃電哥哥ghj慰問費22",
+    "address": "河南省鄭州市蜀山區南二環路天鵝湖萬達廣場8號樓1705室",
+    "id": 479,
+    "latitude": 31.81948,
+    "longitude": 117.22124,
+    "location": [
+      93.50611,
+      42.84974
+    ],
+    "phone": "122343adsa",
+    "category": "異國料理",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a66f45c76d92175ac4464dd"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a66f45c76d92175ac4464dc"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a66f45c76d92175ac4464db"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 755,
+    "rating_count": 167,
+    "rating": 4.2,
+    "promotion_info": "歡迎光臨，用餐高峰請提前下單，謝謝",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "16836c78a1225354.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "1010.3公裡",
+    "order_lead_time": "21小時7分鐘",
+    "description": "描述性內容1",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a66f45c76d92175ac4464de"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "蘇州嘻哈包袱鋪",
+    "address": "江蘇省蘇州市吳中區吳東路中文基廣場(姜家橋公交站南)",
+    "id": 485,
+    "latitude": 31.26578,
+    "longitude": 120.65355,
+    "location": [
+      120.65355,
+      31.26578
+    ],
+    "phone": "12345678901",
+    "category": "商店超市/名酒坊",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6830b41d632b05464db9d1"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6830b41d632b05464db9d0"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6830b41d632b05464db9cf"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 58,
+    "rating_count": 576,
+    "rating": 4.6,
+    "promotion_info": "歡迎光臨，用餐高峰請提前下單，謝謝",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16126fe59b83261.jpg",
+      "business_license_image": "16126fe55013260.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1683115cbe725274.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 25,
+    "float_delivery_fee": 7,
+    "distance": "1167.4公裡",
+    "order_lead_time": "19小時1分鐘",
+    "description": "",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6830b41d632b05464db9d2"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "大樹旗艦店2112",
+    "address": "廣東省廣州市天河區東圃鎮彙彩路38號1領彙創展商務中心401",
+    "id": 486,
+    "latitude": 23.1127,
+    "longitude": 113.41724,
+    "location": [
+      113.41724,
+      23.1127
+    ],
+    "phone": "13544323775",
+    "category": "快餐便當",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6863641d632b05464dbaea"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6863641d632b05464dbae9"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6863641d632b05464dbae8"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 542,
+    "rating_count": 372,
+    "rating": 4.2,
+    "promotion_info": "大樹旗艦店標語",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "09:00/21:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16127c429983306.jpg",
+      "business_license_image": "16127c423ae3305.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "167a7d9993d23817.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 40,
+    "float_delivery_fee": 5,
+    "distance": "2128.8公裡",
+    "order_lead_time": "32小時14分鐘",
+    "description": "大樹旗艦店大樹旗艦店大樹旗艦店簡介",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6863641d632b05464dbaeb"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "廣州酒家",
+    "address": "廣東省廣州市荔灣區上下九商業步行街內",
+    "id": 487,
+    "latitude": 23.11488,
+    "longitude": 113.24826,
+    "location": [
+      113.24826,
+      23.11488
+    ],
+    "phone": "750",
+    "category": "果蔬生鮮/海鮮水產",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a687a781d632b05464dbb35"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a687a781d632b05464dbb34"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a687a781d632b05464dbb33"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 923,
+    "rating_count": 871,
+    "rating": 4.2,
+    "promotion_info": "廣州第一家",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "161281e6ef33314.png",
+      "business_license_image": "161281e4a723313.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1678748388a23409.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 35,
+    "float_delivery_fee": 4,
+    "distance": "2123公裡",
+    "order_lead_time": "31小時26分鐘",
+    "description": "喝早茶好去處",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a687a781d632b05464dbb36"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "閃電老司機",
+    "address": "廣東省廣州市越秀區德政中路171",
+    "id": 488,
+    "latitude": 23.12092,
+    "longitude": 113.27521,
+    "location": [
+      113.27521,
+      23.12092
+    ],
+    "phone": "2",
+    "category": "果蔬生鮮",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a687c8d1d632b05464dbb60"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a687c8d1d632b05464dbb5f"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a687c8d1d632b05464dbb5e"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 483,
+    "rating_count": 273,
+    "rating": 4.2,
+    "promotion_info": "4",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1675919998022868.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 6,
+    "distance": "2121.6公裡",
+    "order_lead_time": "31小時26分鐘",
+    "description": "3",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a687c8d1d632b05464dbb61"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "123",
+    "address": "遼寧省大連市金州區 ",
+    "id": 491,
+    "latitude": 39.17791,
+    "longitude": 122.05169,
+    "location": [
+      122.05169,
+      39.17791
+    ],
+    "phone": "12345678",
+    "category": "快餐便當/包子粥店",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a696b071d632b05464dbd31"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a696b071d632b05464dbd30"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a696b071d632b05464dbd2f"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 49,
+    "rating_count": 447,
+    "rating": 4.7,
+    "promotion_info": "歡迎光臨，用餐高峰請提前下單，謝謝",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "167b0ff0a7923946.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 30,
+    "float_delivery_fee": 4,
+    "distance": "797.7公裡",
+    "order_lead_time": "15小時48分鐘",
+    "description": "",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a696b071d632b05464dbd32"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "川菜館111111111",
+    "address": "廣東省深圳市寶安區留仙二路59",
+    "id": 496,
+    "latitude": 22.58295,
+    "longitude": 113.91455,
+    "location": [
+      113.91455,
+      22.58295
+    ],
+    "phone": "133333",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a69880a1d632b05464dbe66"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a69880a1d632b05464dbe65"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 68,
+    "rating_count": 919,
+    "rating": 4.1,
+    "promotion_info": "情侶吃飯，免茶位費",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "10:00/23:00"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "167b0ff0a7923946.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 50,
+    "float_delivery_fee": 10,
+    "distance": "2167.4公裡",
+    "order_lead_time": "35小時3分鐘",
+    "description": "正宗川菜",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a69880a1d632b05464dbe68"
+      },
+      {
+        "icon_name": "特",
+        "name": "優惠大酬賓",
+        "description": "情侶吃飯，免茶位費",
+        "icon_color": "EDC123",
+        "id": 2,
+        "_id": "5a69880a1d632b05464dbe67"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "1313",
+    "address": "北京市通州區潞苑南大街運通花園1313號樓",
+    "id": 499,
+    "latitude": 39.9256,
+    "longitude": 116.6773,
+    "location": [
+      116.6773,
+      39.9256
+    ],
+    "phone": "13641266693",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6acb3e1d632b05464dc4a0"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6acb3e1d632b05464dc49f"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6acb3e1d632b05464dc49e"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 597,
+    "rating_count": 593,
+    "rating": 4.8,
+    "promotion_info": "13213213",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "05:30/06:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613129f6be3558.jpg",
+      "business_license_image": "1613129ee4a3557.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1675d0633b622906.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "42.1公裡",
+    "order_lead_time": "1小時47分鐘",
+    "description": "13131",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6acb3e1d632b05464dc4a1"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "618",
+    "address": "北京市昌平區霍營",
+    "id": 501,
+    "latitude": 40.08277,
+    "longitude": 116.36739,
+    "location": [
+      116.36739,
+      40.08277
+    ],
+    "phone": "18232060789",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6acd3f1d632b05464dc541"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6acd3f1d632b05464dc540"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6acd3f1d632b05464dc53f"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 414,
+    "rating_count": 96,
+    "rating": 4.1,
+    "promotion_info": "618插件網",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "06:00/11:30"
+    ],
+    "license": {
+      "catering_service_license_image": "161313145043561.jpg",
+      "business_license_image": "16131312b733560.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1675d92b3de22925.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 15,
+    "float_delivery_fee": 4,
+    "distance": "2.6公裡",
+    "order_lead_time": "26分鐘",
+    "description": "618",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6acd3f1d632b05464dc543"
+      },
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "1236655",
+        "icon_color": "f07373",
+        "id": 2,
+        "_id": "5a6acd3f1d632b05464dc542"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "618618",
+    "address": "上海市靜安區襄陽北路17號3層",
+    "id": 502,
+    "latitude": 31.22003,
+    "longitude": 121.45476,
+    "location": [
+      121.45476,
+      31.22003
+    ],
+    "phone": "618618",
+    "category": "果蔬生鮮/水果",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6adb5a1d632b05464dc62a"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6adb5a1d632b05464dc629"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6adb5a1d632b05464dc628"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 957,
+    "rating_count": 527,
+    "rating": 4.7,
+    "promotion_info": "618618",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "05:45/06:15"
+    ],
+    "license": {
+      "catering_service_license_image": "1613168204c3572.jpg",
+      "business_license_image": "161316806d63571.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1675e44182b22953.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 25,
+    "float_delivery_fee": 6,
+    "distance": "1195.5公裡",
+    "order_lead_time": "21小時4分鐘",
+    "description": "618618",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6adb5a1d632b05464dc62b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "xx",
+    "address": "北京市海澱區頤和園路5號",
+    "id": 503,
+    "latitude": 39.99287,
+    "longitude": 116.31025,
+    "location": [
+      116.31025,
+      39.99287
+    ],
+    "phone": "11111444",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6ae5d41d632b05464dc6a1"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6ae5d41d632b05464dc6a0"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6ae5d41d632b05464dc69f"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 626,
+    "rating_count": 707,
+    "rating": 4,
+    "promotion_info": "111",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "05:30/05:45"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1675e635ebf22957.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 30,
+    "float_delivery_fee": 4,
+    "distance": "16.7公裡",
+    "order_lead_time": "55分鐘",
+    "description": "1231",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6ae5d41d632b05464dc6a2"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "3",
+    "address": "四川省成都市郫都區郫都區郫都區",
+    "id": 506,
+    "latitude": 30.73324,
+    "longitude": 103.98682,
+    "location": [
+      103.98682,
+      30.73324
+    ],
+    "phone": "434343434",
+    "category": "特色菜系/江浙菜",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6c3cee1d632b05464dcabb"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6c3cee1d632b05464dcaba"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6c3cee1d632b05464dcab9"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 105,
+    "rating_count": 440,
+    "rating": 4.4,
+    "promotion_info": "3434",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥4"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16136ce209f3645.jpg",
+      "business_license_image": "16136cdffad3644.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1684730298525487.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 4,
+    "distance": "1790.1公裡",
+    "order_lead_time": "27小時2分鐘",
+    "description": "3434",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6c3cee1d632b05464dcabc"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "青島市金拱門餐飲有限公司",
+    "address": "山東省青島市嶗山區以東40公裡處",
+    "id": 508,
+    "latitude": 36.14213,
+    "longitude": 120.60168,
+    "location": [
+      120.60168,
+      36.14213
+    ],
+    "phone": "12580",
+    "category": "異國料理",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6d41041d632b05464dcbf7"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6d41041d632b05464dcbf6"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6d41041d632b05464dcbf5"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 596,
+    "rating_count": 370,
+    "rating": 4.6,
+    "promotion_info": "吃雞",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "11:30/15:45"
+    ],
+    "license": {
+      "catering_service_license_image": "1613ac5ecbb3662.jpg",
+      "business_license_image": "1613ac5d99f3661.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "16772d7aac123152.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 45,
+    "float_delivery_fee": 8,
+    "distance": "662公裡",
+    "order_lead_time": "11小時23分鐘",
+    "description": "請撥打我們的電話",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "特",
+        "name": "優惠大酬賓",
+        "description": "傻逼的神臂鬥士八度空間阿薩德",
+        "icon_color": "EDC123",
+        "id": 1,
+        "_id": "5a6d41041d632b05464dcbf8"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "廣州大學城",
+    "address": "廣東省廣州市番禺區新造鎮小谷圍",
+    "id": 510,
+    "latitude": 23.05013,
+    "longitude": 113.38986,
+    "location": [
+      113.38986,
+      23.05013
+    ],
+    "phone": "q110",
+    "category": "快餐便當/米粉面館",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6dbe431d632b05464dccaa"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6dbe431d632b05464dcca9"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6dbe431d632b05464dcca8"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 965,
+    "rating_count": 894,
+    "rating": 4.6,
+    "promotion_info": "黃燜雞米飯",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613caf47de3679.png",
+      "business_license_image": "1613caf430f3678.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1675e7cf53222965.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 35,
+    "float_delivery_fee": 7,
+    "distance": "2135.3公裡",
+    "order_lead_time": "32小時17分鐘",
+    "description": "黃燜雞ww",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6dbe431d632b05464dccab"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "廣州大學城黃燜雞",
+    "address": "廣東省廣州市番禺區大學城外環西路230號",
+    "id": 511,
+    "latitude": 23.04073,
+    "longitude": 113.37072,
+    "location": [
+      113.37072,
+      23.04073
+    ],
+    "phone": "21107888797",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6dbe8b1d632b05464dccd3"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6dbe8b1d632b05464dccd2"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6dbe8b1d632b05464dccd1"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 269,
+    "rating_count": 177,
+    "rating": 4.8,
+    "promotion_info": "好吃的黃燜雞",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613cb057073682.png",
+      "business_license_image": "1613cb054b43681.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "167a53b9f5623750.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2136.6公裡",
+    "order_lead_time": "32小時21分鐘",
+    "description": "黃燜雞",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6dbe8b1d632b05464dccd4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "蔡林記",
+    "address": "湖北省武漢市東西湖區 ",
+    "id": 512,
+    "latitude": 30.64141,
+    "longitude": 114.04684,
+    "location": [
+      114.04684,
+      30.64141
+    ],
+    "phone": "15527091536",
+    "category": "快餐便當/蓋澆飯",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6e87c01d632b05464dce5e"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6e87c01d632b05464dce5d"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6e87c01d632b05464dce5c"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 236,
+    "rating_count": 370,
+    "rating": 4,
+    "promotion_info": "111",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "05:45/11:15"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1676f0f719623092.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 15,
+    "float_delivery_fee": 10,
+    "distance": "1162.6公裡",
+    "order_lead_time": "19小時1分鐘",
+    "description": "111",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "11",
+    "address": "山東省青島市嶗山區第十一中學",
+    "id": 514,
+    "latitude": 36.22215,
+    "longitude": 120.5297,
+    "location": [
+      120.5297,
+      36.22215
+    ],
+    "phone": "11111",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6e8ca81d632b05464dcea4"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6e8ca81d632b05464dcea3"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6e8ca81d632b05464dcea2"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 425,
+    "rating_count": 891,
+    "rating": 4.4,
+    "promotion_info": "111",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613fd562343700.jpg",
+      "business_license_image": "1613fd56eba3699.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "167e611fa8724705.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 50,
+    "float_delivery_fee": 9,
+    "distance": "645.7公裡",
+    "order_lead_time": "11小時2分鐘",
+    "description": "111",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6e8ca81d632b05464dcea6"
+      },
+      {
+        "icon_name": "新",
+        "name": "新用戶立減",
+        "description": "111",
+        "icon_color": "70bc46",
+        "id": 2,
+        "_id": "5a6e8ca81d632b05464dcea5"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "qqq",
+    "address": "湖北省武漢市黃陂區天河國際機場盤龍城巨龍大道196號",
+    "id": 516,
+    "latitude": 30.71401,
+    "longitude": 114.24966,
+    "location": [
+      114.24966,
+      30.71401
+    ],
+    "phone": "11111",
+    "category": "異國料理/披薩意面",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6e8f561d632b05464dcedd"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6e8f561d632b05464dcedc"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6e8f561d632b05464dcedb"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 742,
+    "rating_count": 458,
+    "rating": 4.1,
+    "promotion_info": "歡迎光臨，用餐高峰請提前下單，謝謝",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥12"
+    },
+    "opening_hours": [
+      "06:30/06:45"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "16773c2752a23189.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 12,
+    "distance": "1143公裡",
+    "order_lead_time": "18小時55分鐘",
+    "description": "111",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6e8f561d632b05464dcede"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "天下食譜",
+    "address": "上海市黃浦區巨鹿路304-1",
+    "id": 518,
+    "latitude": 31.22299,
+    "longitude": 121.45999,
+    "location": [
+      121.45999,
+      31.22299
+    ],
+    "phone": "666",
+    "category": "快餐便當/簡餐",
+    "supports": [
+      {
+        "description": "已加入“外賣保”計劃，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外賣保",
+        "_id": "5a6e99741d632b05464dcf38"
+      },
+      {
+        "description": "準時必達，超時秒賠",
+        "icon_color": "57A9FF",
+        "icon_name": "準",
+        "id": 9,
+        "name": "準時達",
+        "_id": "5a6e99741d632b05464dcf37"
+      },
+      {
+        "description": "該商家支持開發票，請在下單時填寫好發票抬頭",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "開發票",
+        "_id": "5a6e99741d632b05464dcf36"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 867,
+    "rating_count": 916,
+    "rating": 4.7,
+    "promotion_info": "sdafsdf",
+    "piecewise_agent_fee": {
+      "tips": "配送費約¥5"
+    },
+    "opening_hours": [
+      "06:30/22:45"
+    ],
+    "license": {
+      "catering_service_license_image": "161400760ee3715.jpg",
+      "business_license_image": "16140074a273714.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "167736791fd23178.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 30,
+    "float_delivery_fee": 5,
+    "distance": "1194.9公裡",
+    "order_lead_time": "21小時1分鐘",
+    "description": "asdfsda",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "deliveryspeed"},
+    "activities": [
+      {
+        "icon_name": "減",
+        "name": "滿減優惠",
+        "description": "滿30減5，滿60減8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6e99741d632b05464dcf39"
+      }
+    ],
+    "__v": 0
+  }
+]
